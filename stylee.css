@@ -1,0 +1,32 @@
+body {
+    font-family: "Trebuchet MS";
+    font-size: 20px;
+    line-height: 1.5;
+    background: #6666FF;
+    color: black;
+
+}
+fieldset{
+    margin: auto;
+    width: 500px;
+    border: 1px solid;
+    padding: 5px;
+    line color: blue;
+    
+    
+}
+head{
+    
+    font-family: "Trebuchet MS";
+    font-size: 20px;
+    line-height: 1.5;  
+}
+
+legend{
+    font-family: "Tahoma";
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+
